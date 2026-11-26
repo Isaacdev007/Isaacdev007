@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hola, soy Jorge Isaac Espitia 👋
 
-<!--
-**Isaacdev007/Isaacdev007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer** enfocado en el diseño y construcción de APIs RESTful robustas, escalables y bien documentadas.
 
-Here are some ideas to get you started:
+Actualmente cursando **Ingeniería de Software** (UCompensar) y formado como **Tecnólogo en Análisis y Desarrollo de Software** (SENA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico
+
+* **Lenguajes:** Python, SQL, JavaScript
+* **Backend & Frameworks:** FastAPI, REST APIs, Pydantic
+* **Bases de Datos:** PostgreSQL, diseño relacional y consultas SQL
+* **Herramientas y Control de Versiones:** Git, GitHub, Swagger / OpenAPI, VS Code
+
+---
+
+### 🎯 Enfoque Actual
+
+* Desarrollo de APIs con **FastAPI** y validación de datos.
+* Modelado de bases de datos relacionales y persistencia con **PostgreSQL**.
+* Documentación interactiva automática (Swagger UI) y despliegue de servicios backend.
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** www.linkedin.com/in/isaacesp-dev
+* **Correo:** espitiacardo2007@gmail.com
